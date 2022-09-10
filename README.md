@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/ShivaySabharwal/CreditCardValidator) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHaSh_0001) ![GitHub followers](https://img.shields.io/github/followers/ShivaySabharwal?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ShivaySabharwal/CreditCardValidator)
 # CreditCardValidator
 The C++ programming language is used to create a Credit Card Validator application that verifies the validity of a user's credit card number. It uses the Luhn algorithm to determine whether a credit card number is legitimate or not. Luhn's method is a straightforward checksum formula that can be used to verify a variety of identifications, including credit card numbers, IMEI numbers, and more, although it is most commonly used to verify credit card numbers.
 
